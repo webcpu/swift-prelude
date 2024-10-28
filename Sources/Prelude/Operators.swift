@@ -1,5 +1,7 @@
-infix operator <|: infixr0
-infix operator |>: infixl1
+infix operator <| : infixr0
+infix operator |> : infixl1
+
+infix operator >>= : infixl1
 
 // Semigroupoid
 infix operator >>>: infixr9
